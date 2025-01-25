@@ -12,9 +12,15 @@ KinderKare is an easy-to-use web-based childcare management system that enhances
     * Edit student profiles
     * Delete student profiles
 * Charts to visualize the weaknesses and strengths of students
+* Database to store users and student profiles
+
+## Technologies Used
+* Java
+* MySql
 
 ## Techniques Applied
 
+* **Data Normalization**
 * **OOP Principles:**
     * Encapsulation
     * Inheritance
