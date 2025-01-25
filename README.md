@@ -1,10 +1,26 @@
 # KinderKare
-KinderKare is an easy-to-use childcare management system that enhances and simplifies daycare centers' everyday operations. It is designed to address the unique requirements of educators and daycare providers. Will also note that this is my first Java program.
 
-feat: Apply OOP Principles and Java Libraries
+KinderKare is an easy-to-use web-based childcare management system that enhances and simplifies daycare centers' everyday operations. It is designed to address the unique requirements of educators and daycare providers.
 
-- **Application of OOP Principles:**
-  - Encapsulation, inheritance, polymorphism, and abstraction have been implemented in this program.
+## Features
 
-- **Application of Java Libraries:**
-  - Java Database Connectivity (JDBC), JFreeChart, and Java Swing have been utilized in this program.
+* Sign in
+* Sign up
+* CRUD:
+    * Create a student profile
+    * View/read student profiles
+    * Edit student profiles
+    * Delete student profiles
+* Charts to visualize the weaknesses and strengths of students
+
+## Techniques Applied
+
+* **OOP Principles:**
+    * Encapsulation
+    * Inheritance
+    * Polymorphism
+    * Abstraction
+* **Java Libraries:**
+    * Java Database Connectivity (JDBC)
+    * JFreeChart
+    * Java Swing
